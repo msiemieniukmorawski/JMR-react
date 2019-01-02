@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+.post__title{
+  text-transform: uppercase;
+  text-align: left;
+}
